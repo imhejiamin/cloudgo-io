@@ -30,9 +30,11 @@
 
 ![1](https://github.com/imhejiamin/cloudgo-io/blob/master/test_images/1.png)
 
-（2）打开浏览器进入到localhost：8080端口，浏览器显示出首页信息；shell监听正常，有返回码和详细信息。
+（2）打开浏览器进入到localhost：8080端口，浏览器显示出首页信息；shell监听正常，有返回码和详细信息。建立一个新的模板/templates，使用中山大学的图片和欢迎语。
 
 ![2](https://github.com/imhejiamin/cloudgo-io/blob/master/test_images/2.png)
+
+![8](https://github.com/imhejiamin/cloudgo-io/blob/master/test_images/8.png)
 
 （3）js访问。支持js访问，能够显示出hello.js内容。
 
